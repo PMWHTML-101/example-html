@@ -2,7 +2,7 @@
 
 ## Core contributors
 
-  * me
+  * @perlamw
   * brian
 
 Testing examples of html
