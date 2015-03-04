@@ -1,5 +1,8 @@
 # example-html
 
-:sparkles: :camel: :tada:
+## Core contributors
+
+  * me
+  * brian
 
 Testing examples of html
